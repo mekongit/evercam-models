@@ -1,0 +1,2 @@
+defmodule EvercamModels do
+end
